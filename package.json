@@ -1,0 +1,22 @@
+{
+  "name": "movierecommendationsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f20180106/MovieRecommendationsApp.git"
+  },
+  "author": "Nikhil Boddupalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/f20180106/MovieRecommendationsApp/issues"
+  },
+  "homepage": "https://github.com/f20180106/MovieRecommendationsApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
