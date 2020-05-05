@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/f20180106/MovieRecommendationsApp#readme",
   "dependencies": {
+    "ejs": "^3.1.2",
     "express": "^4.17.1"
   }
 }

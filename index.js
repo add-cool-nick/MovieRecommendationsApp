@@ -1,8 +1,11 @@
 var express = require('express');
 var app = express();
+var fs = require('fs');
+
+app.set('view engine', 'ejs');
 
 app.get('/', function(req, res) {
-    res.send('Welcome to Movie Recommendations App');
+    res.render('index')
 });
 
 app.listen(8080, function() {
